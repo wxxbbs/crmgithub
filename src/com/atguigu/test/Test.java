@@ -6,5 +6,6 @@ public class Test {
 		System.out.println("1234567890");
 		System.out.println("yyyyyyy");
 		System.out.println("lmsb");
+		int i = 3;
 	}
 }
